@@ -1,0 +1,29 @@
+{
+  "name": "node-express-passport-mongodb-example",
+  "version": "0.0.0",
+  "description": "A very simple node, express, passport, and mongodb example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Simple",
+    "basic",
+    "easy",
+    "node",
+    "express",
+    "passport",
+    "mongodb",
+    "example"
+  ],
+  "author": "Eli Wheaton",
+  "dependencies": {
+    "body-parser": "^1.2.0",
+    "cookie-parser": "^1.1.0",
+    "express": "^4.2.0",
+    "express-session": "^1.1.0",
+    "mongoose": "^3.8.9",
+    "passport": "^0.2.0",
+    "passport-local": "^1.0.0"
+  }
+}
